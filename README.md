@@ -1,2 +1,3 @@
 # LMSGI-tarea1
-! [Imagen BMP] (html.bmp)
+
+![Imagen BMP](html.bmp)
