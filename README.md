@@ -15,6 +15,8 @@ Para mas informacion he usado la pagina web ->  [https://www.w3schools.com/xml/]
 Utilizando el navegador internet explorer el resultado obtenido con el código redactado en el archivo html1.html es el que muestra la siguiente imagen:
 ![imagen_BMP](html1.bmp)
 
+*[https://rawgit.com/ivelinakoleva/LMSGI-tarea1/81a76b69d22f6afc5361452d5f05c5aa0c1c50bf/README.md]* 
+
  
 
 
